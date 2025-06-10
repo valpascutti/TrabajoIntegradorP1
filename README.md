@@ -15,5 +15,6 @@ datos optimizados, lo cual es fundamental para aplicaciones más complejas en in
 Este trabajo no solo refuerza conceptos teóricos, sino que también propone una implementación práctica para consolidar el aprendizaje 
 de estas estructuras en un contexto real de programación.
 
-Tambien esta anexado el archivo PDF con el Trabajo Integrador
+Tambien esta anexado el archivo PDF con el Trabajo Integrador.
+
 ENLACE VIDEO EXPLICATIVO DEL TRABAJO INTEGRADOR: https://youtu.be/rqRNcHZyfqI
