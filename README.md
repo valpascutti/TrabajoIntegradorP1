@@ -4,6 +4,13 @@ Alumnas:
 - Angela Ramos
 - Valentina Pascutti
 
+Comisión: 4
+
+Profesora: Julieta Trapé
+Tutora: Sofía Raia
+
+Link del repositorio: https://github.com/valpascutti/TrabajoIntegradorP1
+
 Universidad Tecnologica Nacional - Facultad Regional San Nicolas
 
 Este proyecto es un trabajo práctico integrador realizado en la materia de Programación I, cuyo tema principal es el estudio y 
