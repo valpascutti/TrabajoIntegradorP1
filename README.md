@@ -24,4 +24,4 @@ de estas estructuras en un contexto real de programación.
 
 Tambien esta anexado el archivo PDF con el Trabajo Integrador.
 
-ENLACE VIDEO EXPLICATIVO DEL TRABAJO INTEGRADOR: https://youtu.be/rqRNcHZyfqI
+ENLACE VIDEO EXPLICATIVO DEL TRABAJO INTEGRADOR: https://youtu.be/Vy1qGYOia1g
