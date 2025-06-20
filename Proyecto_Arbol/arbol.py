@@ -1,7 +1,3 @@
-# Programa: Árbol Binario de Búsqueda.
-# Crear un árbol binario de búsqueda a partir de una lista de valores enteros ingresados por el usuario.
-# Implementa un recorrido postorden, inorden y preorden. Utiliza una función para dibujar el árbol de forma visual.
-
 class Nodo:
     """Clase que representa un nodo en un árbol binario de búsqueda."""
     def __init__(self, valor):

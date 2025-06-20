@@ -1,7 +1,10 @@
+# Proyecto: Árbol Binario de Búsqueda.
+# Crear un árbol binario de búsqueda a partir de una lista de valores enteros ingresados por el usuario.
+# Implementa un recorrido postorden, inorden y preorden. Utiliza una función para dibujar el árbol de forma visual.
+
 from arbol import insertar, postorden, inorden, preorden
 from utils import dibujar_arbol, validar_entrada
 
-# Programa principal.
 def main():
     """Función principal que solicita al usuario los valores del árbol y ejecuta las operaciones."""
     print("Bienvenido al programa de Árbol Binario de Búsqueda.")
